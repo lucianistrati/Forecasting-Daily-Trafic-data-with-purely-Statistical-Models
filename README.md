@@ -44,6 +44,3 @@ To run the forecasting models, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, feel free to open an issue or create a pull request.
-
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
